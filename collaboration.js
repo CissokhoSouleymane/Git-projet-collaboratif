@@ -2,5 +2,5 @@
 
 alert ('New modification');
 
-alert('Hello word');
+
 
