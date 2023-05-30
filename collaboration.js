@@ -2,5 +2,7 @@
 
 alert ('New modification');
 
+alert('Hello world');
+alert('Welcome');
 
 
